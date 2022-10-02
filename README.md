@@ -13,7 +13,7 @@ We provide the official Tensorflow & Keras implementation of training our PiTE: 
 
 ### 1. Clone the repository
 ```bash
-$ git clone https://github.com/pzhang84/PiTE
+$ git clone https://github.com/Lee-CBG/PiTE
 $ cd PiTE/
 $ conda env create -n PiTE -f environment.yml
 ```
