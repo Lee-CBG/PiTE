@@ -28,7 +28,7 @@ $ conda env create -n PiTE -f environment.yml
 ### 3. Train models
 An example for training the transformer-based model
 
-```python
+```bash
 python -W ignore main.py \
 --nns transformer \
 --split tcr \
@@ -38,4 +38,18 @@ python -W ignore main.py \
 ```
 
 ## Citation
-If you use this code or use our PiTE for your research, please cite our [paper]
+If you use this code or use our PiTE for your research, please cite our paper:
+```
+@inproceedings{zhang2022pite,
+  title={PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder},
+  author={Zhang, Pengfei and Bang, Seojin and Lee, Heewook},
+  booktitle={PACIFIC SYMPOSIUM ON BIOCOMPUTING 2023: Kohala Coast, Hawaii, USA, 3--7 January 2023},
+  pages={347--358},
+  year={2022},
+  organization={World Scientific}
+}
+```
+
+## License
+
+Released under the [ASU GitHub Project License](./LICENSE).
