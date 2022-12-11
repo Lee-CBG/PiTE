@@ -2,6 +2,8 @@
 
 We provide the official Tensorflow & Keras implementation of training our PiTE: TCR-epitope binding affinity prediction pipeline using Transformer-based Sequence Encoder.
 
+<p align="center"><img width=60% alt="FrontCover" src="https://github.com/Lee-CBG/PiTE/blob/main/figures/pipeline.pdf"></p>
+
 ## Dependencies
 
 + Linux
