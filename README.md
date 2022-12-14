@@ -4,6 +4,15 @@ We provide the official Tensorflow & Keras implementation of training our PiTE: 
 
 <p align="center"><img width=60% alt="Overview" src="https://github.com/Lee-CBG/PiTE/blob/main/figures/pipeline.png"></p>
 
+## Publication
+<b>PiTE: TCR-epitope Binding Affinity Prediction Pipeline using Transformer-based Sequence Encoder </b> <br/>
+[Pengfei Zhang](https://github.com/pzhang84)<sup>1,2</sup>, [Seojin Bang](http://seojinb.com/)<sup>2</sup>, [Heewook Lee](https://scai.engineering.asu.edu/faculty/computer-science-and-engineering/heewook-lee/)<sup>1,2</sup><br/>
+<sup>1 </sup>School of Computing and Augmented Intelligence, Arizona State University, <sup>2 </sup>Biodesign Institute, Arizona State University <br/>
+Published in: **Pacific Symposium on Biocomputing (PSB), 2022.**
+
+
+[Paper](https://www.worldscientific.com/doi/pdf/10.1142/9789811270611_0032) | [Code](https://github.com/Lee-CBG/PiTE) | [Poster](#) | [Slides](#) | Presentation ([YouTube](#), [YouKu](#))
+
 ## Dependencies
 
 + Linux
