@@ -11,7 +11,7 @@ We provide the official Tensorflow & Keras implementation of training our PiTE: 
 Published in: **Pacific Symposium on Biocomputing (PSB), 2022.**
 
 
-[Paper](https://www.worldscientific.com/doi/pdf/10.1142/9789811270611_0032) | [Code](https://github.com/Lee-CBG/PiTE) | [Poster](#) | [Slides](#) | Presentation ([YouTube](#), [YouKu](#))
+[Paper](https://www.worldscientific.com/doi/pdf/10.1142/9789811270611_0032) | [Code](https://github.com/Lee-CBG/PiTE) | [Poster](https://github.com/Lee-CBG/PiTE/Supplementary/PiTE_PSB23_Poster.pdf) | [Slides](#) | Presentation ([YouTube](#))
 
 ## Dependencies
 
