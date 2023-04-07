@@ -24,9 +24,9 @@ Published in: **Pacific Symposium on Biocomputing (PSB), 2022.**
 
 ### 1. Clone the repository
 ```bash
-$ git clone https://github.com/Lee-CBG/PiTE
-$ cd PiTE/
-$ conda env create -n PiTE -f environment.yml
+git clone https://github.com/Lee-CBG/PiTE
+cd PiTE/
+pip install -r requirements.txt
 ```
 
 ### 2. Download training and testing dataset
