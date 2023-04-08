@@ -30,8 +30,8 @@ pip install -r requirements.txt
 ```
 
 ### 2. Download training and testing dataset
-- Data for baseline model can be downloaded [here](https://drive.google.com/drive/folders/1bXGenR3e6GgAuiEnfiG4N2RTZb3cRaUX?usp=sharing). The size is 5.16 GB.
-- Data for other models such as Transformer, BiLSTM, and CNNs can be download [here](https://drive.google.com/drive/folders/12jb8BshG9mJI6xXuRdQrClJJ-PgkWGgG?usp=sharing). The size is 68.93 GB. Preprocess this data using preprocessing.ipynb file before intiating the training. 
+- Data for baseline model can be downloaded [here](https://www.dropbox.com/sh/nnsgagtd7uf2a3f/AAB3-u3Is2l0YINfNQOg7kOYa?dl=0). The size is 5.16 GB.
+- Data for other models such as Transformer, BiLSTM, and CNNs can be download [here](https://www.dropbox.com/sh/34t3qtivzn7z6u7/AACA05wYDUjDrej4qDcjnv_6a?dl=0). The size is 68.93 GB. Preprocess this data using preprocessing.ipynb file before intiating the training. 
 
 
 ### 3. Train models
