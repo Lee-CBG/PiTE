@@ -1,3 +1,9 @@
+'''
+Part of PiTE
+(c) 2023 by  Pengfei Zhang, Seojin Bang, Heewook Lee, and Arizona State University.
+See LICENSE-CC-BY-NC-ND for licensing.
+'''
+
 #!/usr/bin/env python
 # coding: utf-8
 
