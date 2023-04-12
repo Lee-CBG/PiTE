@@ -1,3 +1,9 @@
+'''
+Part of PiTE
+(c) 2023 by  Pengfei Zhang, Seojin Bang, Heewook Lee, and Arizona State University.
+See LICENSE-CC-BY-NC-ND for licensing.
+'''
+
 import numpy as np
 import pandas as pd
 from sklearn.metrics import precision_recall_fscore_support,roc_auc_score, precision_score, recall_score, f1_score, accuracy_score
